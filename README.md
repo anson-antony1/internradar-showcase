@@ -28,11 +28,11 @@ rows, all on one machine.
 | | |
 |---|---|
 | Commits | 77 |
-| Span | 2026-06-15 → 2026-09-01 (~11 weeks, worked in 9 intense days) |
-| Code | 49,807 lines across 196 tracked Python/TS files |
-| Backend | 177 Python files, 41,243 lines |
-| Frontend | 19 TS/TSX files, 8,564 lines |
+| Span | 2026-06-15 → 2026-09-01 |
+| Backend | 177 Python files · 27-table SQLite schema · 7 service packages |
+| Frontend | 19 TS/TSX files · Next.js App Router |
 | Tests | 44 test modules, 1,812 assertions, 49 pytest items |
+| Live data | 1,099 roles · 55 active sources · 138 auto-discovered |
 
 ## Architecture
 
