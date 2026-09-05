@@ -59,6 +59,10 @@ polishing draft text — never for deciding what you see or in what order. When 
 API key is present every one of those drafts falls back to a template, so the
 app is fully functional with no model at all.
 
+[`docs/architecture.md`](docs/architecture.md) is the longer version: how sources
+discover, verify, and retire themselves; the dedup order in full; the schema; and
+what the tests actually pin.
+
 ## Four things worth reading
 
 ### 1. Deduplication that refuses to guess
